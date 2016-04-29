@@ -11,4 +11,5 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$plugin->version = 2011102500;
+$plugin->version = 2016042900;
+$plugin->component = 'filter_freemind';
